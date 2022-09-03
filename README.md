@@ -7,7 +7,9 @@ Shout out also to GZNetwork for suggesting that I make this repo. <3 <3
 
 Links:
 https://the-l0bster.itch.io/pocket-platformer
+
 https://cheez26.itch.io/protonami
+
 https://www.newgrounds.com/portal/view/855625
 
 More info coming soon. ;)
